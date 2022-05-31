@@ -1,0 +1,12 @@
+2022-05-30 20:02:05 | DEBUG | demo_loguru | 34| 这是一条debug日志
+2022-05-30 20:02:05 | INFO | demo_loguru | 35| 这是一条info日志
+2022-05-30 20:02:05 | WARNING | demo_loguru | 36| 这是一条warning日志
+2022-05-30 20:02:05 | SUCCESS | demo_loguru | 37| 这是一条success日志
+2022-05-30 20:02:05 | ERROR | demo_loguru | 38| 这是一条error日志
+2022-05-30 20:02:05 | INFO | demo_loguru | 42| 我的名字叫张三，今天星期1
+2022-05-30 20:05:22 | DEBUG |  | 40| 这是一条debug日志
+2022-05-30 20:05:22 | INFO |  | 41| 这是一条info日志
+2022-05-30 20:05:22 | WARNING |  | 42| 这是一条warning日志
+2022-05-30 20:05:22 | SUCCESS |  | 43| 这是一条success日志
+2022-05-30 20:05:22 | ERROR |  | 44| 这是一条error日志
+2022-05-30 20:05:22 | INFO |  | 48| 我的名字叫张三，今天星期1
